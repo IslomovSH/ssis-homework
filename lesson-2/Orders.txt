@@ -1,0 +1,6 @@
+OrderID|CustomerID|OrderDate|TotalAmount|Comments
+5001|1001|2024-02-01|250.75|First order
+5002|1002|2024-01-20|125.00|“Rush delivery”
+5003|1003|2024-02-15|320.40|Includes, gift wrap
+5004|1005|2024-03-25|80.00|–
+5005|1002|2024-04-01|560.00|Repeat customer

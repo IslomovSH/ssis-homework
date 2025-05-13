@@ -1,0 +1,4 @@
+ID,Name,Category
+1,Max Electronics,Technology
+2,Savdo Market,Supermarket
+3,NeoTrade,Wholesale

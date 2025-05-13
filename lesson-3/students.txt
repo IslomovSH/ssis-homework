@@ -1,0 +1,6 @@
+ID,Name,Age,Email
+1,Ali,23,ali@example.com
+2,Aziza,28,aziza@example.com
+3,Bekzod,26,bekzod@example.com
+4,Dilnoza,21,dilnoza@example.com
+5,Jamshid,30,jamshid@example.com
