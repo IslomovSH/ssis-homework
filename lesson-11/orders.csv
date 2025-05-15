@@ -1,0 +1,6 @@
+OrderID,CustomerName,Product,Quantity,Price,OrderDate
+2006,Evan Davis,Printer,3,772.91,2023-01-31
+2007,Bob Johnson,Mouse,5,900.86,2023-01-18
+2008,Dana White,Keyboard,5,1093.64,2023-01-30
+2009,Charlie Lee,Monitor,5,424.82,2023-01-12
+2010,George King,Smartphone,4,842,2023-01-19

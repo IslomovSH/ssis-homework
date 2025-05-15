@@ -1,0 +1,6 @@
+OrderID	CustomerName	Product	Quantity	Price	OrderDate
+2011	Evan Davis	Printer	3	362.59	2023-01-14
+2012	George King	Keyboard	1	563.16	2023-01-29
+2013	Fiona Grant	Smartphone	5	764.32	2023-01-22
+2014	Dana White	Tablet	5	1374.29	2023-01-04
+2015	Bob Johnson	Monitor	1	1160.45	2023-01-20
